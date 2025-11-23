@@ -2,4 +2,5 @@
 # Calls feature functions every tick
 function vanilla_enhancements:features/arrow_break_glass
 function vanilla_enhancements:features/autoplant
+function vanilla_enhancements:features/auto_smelt
 function vanilla_enhancements:features/compost_rotten_flesh
